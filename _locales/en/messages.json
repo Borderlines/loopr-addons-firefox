@@ -1,0 +1,14 @@
+{
+  "extensionName": {
+    "message": "Open a link with L8pr.tv",
+    "description": "Name of the extension."
+  },
+  "extensionDescription": {
+    "message": "Open a link or a page with L8pr.tv",
+    "description": "Description of the extension."
+  },
+  "openInL8prTitle": {
+    "message": "Open with L8pr.tv",
+    "description": "Title in the context menu."
+  }
+}

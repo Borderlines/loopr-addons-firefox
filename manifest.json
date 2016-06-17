@@ -1,0 +1,23 @@
+{
+
+  "manifest_version": 2,
+  "name": "Open a link with L8pr.tv",
+  "description": "Open a link or a page with L8pr.tv",
+  "version": "1.0",
+  "homepage_url": "http://l8pr.tv",
+  "icons": {
+    "48": "icons/link-48.png"
+  },
+  "applications": {
+    "gecko": {
+      "id": "addon@l8pr.tv",
+      "strict_min_version": "42"
+    }
+  },
+  "permissions": ["contextMenus"],
+
+  "background": {
+    "scripts": ["background-script.js"]
+  },
+  "default_locale": "en"
+}
