@@ -1,1 +1,1 @@
-# Web extensions: Open a Link with L8pr.tv
+# Web extensions: Open a Link with Loopr.tv

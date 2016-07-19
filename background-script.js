@@ -1,4 +1,4 @@
-var L8PR_URL = 'http://l8pr-pr-6.herokuapp.com/open/';
+var L8PR_URL = 'http://loopr.tv/open/';
 function onClick(info, tab) {
     var urlToOpen = info.linkUrl || info.frameUrl || info.pageUrl;
     chrome.tabs.create({

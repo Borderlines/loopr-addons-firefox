@@ -1,17 +1,16 @@
 {
-
   "manifest_version": 2,
-  "name": "Open a link with L8pr.tv",
-  "description": "Open a link or a page with L8pr.tv",
-  "version": "1.0",
-  "homepage_url": "http://l8pr.tv",
+  "name": "Open a link with Loopr.tv",
+  "description": "Open a link or a page with Loopr.tv",
+  "version": "2.0",
+  "homepage_url": "http://loopr.tv",
   "icons": {
     "48": "icons/link-48.png"
   },
   "applications": {
     "gecko": {
-      "id": "addon@l8pr.tv",
-      "strict_min_version": "42"
+      "id": "addons@l8pr.tv",
+      "strict_min_version": "42.*"
     }
   },
   "permissions": ["contextMenus"],
