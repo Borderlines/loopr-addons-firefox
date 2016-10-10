@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "name": "Open a link with Loopr.tv",
   "description": "Open a link or a page with Loopr.tv",
-  "version": "2.0",
+  "version": "2.1",
   "homepage_url": "http://loopr.tv",
   "icons": {
     "48": "icons/link-48.png"
@@ -10,7 +10,7 @@
   "applications": {
     "gecko": {
       "id": "addons@l8pr.tv",
-      "strict_min_version": "42.*"
+      "strict_min_version": "42.0"
     }
   },
   "permissions": ["contextMenus"],
